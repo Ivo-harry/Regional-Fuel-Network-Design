@@ -30,7 +30,7 @@ The models are tested on three synthetic road networks:
 | Instance | Baseline Depots | Scenario A Depots | Scenario B Depots |
 | :--- | :---: | :---: | :---: |
 | Small (10 nodes) | 2 | 5 | 6 |
-| Medium (20 nodes) | 4 | — | — |
+| Medium (20 nodes) | 4 | 7 | 7 |
 | Large (30 nodes) | 3 | 6 | 6 |
 
 *(Update the Medium Instance cells once you run all three models on `data_20`.)*

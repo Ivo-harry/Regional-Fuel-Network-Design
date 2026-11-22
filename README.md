@@ -33,8 +33,6 @@ The models are tested on three synthetic road networks:
 | Medium (20 nodes) | 4 | 7 | 7 |
 | Large (30 nodes) | 3 | 6 | 6 |
 
-*(Update the Medium Instance cells once you run all three models on `data_20`.)*
-
 ## Requirements
 
 * Python 3.9+

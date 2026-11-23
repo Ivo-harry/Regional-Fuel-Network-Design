@@ -61,5 +61,5 @@ I plan on making a Case study for the Area of Amsterdam with correct travel dist
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/Resilient_Fuel_Depot_Network.git
+   git clone [https://github.com/](https://github.com/)<ivaylo-iliev-31>/Resilient_Fuel_Depot_Network.git
    cd Resilient_Fuel_Depot_Network

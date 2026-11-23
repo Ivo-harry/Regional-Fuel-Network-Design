@@ -48,6 +48,9 @@ Each plot shows the road network graph, node IDs, and selected depot locations (
 - **Spatial dispersion across the grid:** `Baseline` solutions place minimal, central-leaning depots, whereas `Scenario A` and `Scenario B` spread depots across outer and peripheral clusters to prevent single-point isolation.
 - **Scenario A vs. Scenario B behavior:** On the Medium (7 depots) and Large (6 depots) instances, the depot count stays equal between Scenario A and Scenario B with shifts in selected nodes, whereas the Small instance increases from 5 to 6 depots when any road node can fail.
 
+## Future plans
+I plan on making a Case study for the Area of Amsterdam with correct travel distances, accurate map and having 50 potential locations. This is plan the "To Do" for the upcoming weeks 
+
 ## Requirements
 
 - Python 3.9+
